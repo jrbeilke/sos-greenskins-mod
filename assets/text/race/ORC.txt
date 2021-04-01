@@ -1,0 +1,12 @@
+NAME: "Orc",
+NAMES: "Orcs",
+POSSESSIVE: "Orcish",
+DESC: 
+"Orcs live to fight. Strong, yet stubborn and with a lazy work attitude."
+",
+DESC_LONG:
+"The Orcs are perhaps the largest and most warlike of the Greenskin race, whose large size and raw physical strength easily allows them to dominate much of Greenskin society.
+They have beady red eyes, a generally foul demeanour, and are naturally bald. 
+They respect power and strength, and naturally tend towards becoming bigger and stronger as they rise through their society.%r%%r%
+Their favourite foods are Meat, Fish, and Mushrooms.
+",

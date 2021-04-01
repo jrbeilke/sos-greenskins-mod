@@ -1,0 +1,3 @@
+NAME: "Bone",
+NAMES: "Bones",
+DESC: "Bones can be used for crafting and construction.",

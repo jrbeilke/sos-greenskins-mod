@@ -1,0 +1,192 @@
+PLAYABLE: true,
+
+PHYSICS: {
+	MASS: 75,
+	ACCELERATION: 4,
+	TOP_SPEED: 4,
+	HEIGHT: 6,
+	WIDTH: 5,
+},
+
+PREFERRED: {
+	FOOD: [
+		MEAT,
+		FISH,
+		MUSHROOM,
+	],
+	STRUCTURE: {
+		STONE: 0.7,
+		GRAND: 0.5,
+		WOOD: 1.0,
+		MOUNTAIN: 0.5,
+	},
+	WORK: {
+		EAT_EATERY_NORMAL: 1.0,
+		EAT_CANTEEN_NORMAL: 1.0,
+		EAT_TAVERN_NORMAL: 1.0,
+		FARM_MUSHROOM: 1.0,
+		FISHERY_NORMAL: 1.0,
+		INDUSTRY_COALER: 1.0,
+		INDUSTRY_SMELTER: 1.0,
+		MINE_COAL: 1.0,
+		MINE_GEM: 1.0,
+		MINE_ORE: 1.0,
+		MINE_SITHILON: 1.0,
+		MINE_STONE: 1.0,
+		PASTURE_SQUIG: 1.0,
+		WORKSHOP_CARPENTER: 1.0,
+		WORKSHOP_JEWELRY: 1.0,
+		WORKSHOP_TOOL: 1.0,
+		WORKSHOP_WEAPON: 1.0,
+	},
+},
+
+BONUS: {
+	MISC: {
+		FARM: 0.4,
+		PASTURE: 0.4,
+		FISHING: 0.4,
+		MINE: 0.4,
+		REFINER: 0.8,
+		WORKSHOP: 0.8,
+	},
+	ROOMS: {
+		WORKSHOP_CARPENTER: 0.5,
+		WORKSHOP_JEWELRY: 0.5,
+		WORKSHOP_TOOL: 0.5,
+		WORKSHOP_WEAPON: 0.5,
+		PASTURE_SQUIG: 0.5,
+	},
+},
+
+TRAITS: {
+	FIGHTER: 0.5,
+	GLUTTON: 0.1,
+	SLEEPER: 0.1,
+	SPRINTER: 1.0,
+},
+
+RESOURCE: {
+	MEAT: 10,
+	LEATHER: 1,
+    COTTON: 1,
+},
+
+APPEARANCE: {
+	SPRITE: Goblin,
+	SPRITE_EXTRA: Normal,
+	BALD_RATE: 1.0,
+	BEARD_RATE: 0.9,
+	TURNS_GRAY: true,
+	EARS_OFF: 0,
+	EYES_OFF: -4,
+	EYEBROW_OFF: -4,
+	NOSE_OFF: 0,
+	MOUTH_OFF: -2,
+	BEARD1_OFF: 0,
+	BEARD2_OFF: 0,
+	HAIR_OFF: 0,
+	COLORS: {
+		SKIN: [
+			{R: 65, G: 146, B: 75,},
+		],
+		HAIR: [
+			{R: 173, G: 50, B: 50,},
+			{R: 176, G: 50, B: 50,},
+			{R: 178, G: 50, B: 50,},
+			{R: 170, G: 50, B: 50,},
+		],
+		CLOTHES: [
+			{R: 114, G: 101, B: 35,},
+			{R: 142, G: 126, B: 44,},
+			{R: 83, G: 181, B: 94,},
+			{R: 62, G: 135, B: 70,},
+			{R: 105, G: 125, B: 239,},
+			{R: 79, G: 94, B: 181,},
+			{R: 53, G: 64, B: 122,},
+			{R: 193, G: 77, B: 0,},
+		],
+		ARMOUR: [
+			{R: 107, G: 79, B: 65,},
+			{R: 99, G: 99, B: 99,},
+			{R: 168, G: 168, B: 180,},
+			{R: 209, G: 159, B: 54,},
+		],
+		
+		EYE: [
+			{R: 148, G: 23, B: 23,},
+		],
+		LEG: [
+			{R: 80, G: 40, B: 20,},
+		],
+	},
+},
+
+FIRST_NAMES: GoblinFirst,
+SURNAMES: GoblinLast,
+FIRST_NAMES_NOBLE: GoblinFirst,
+SURNAMES_NOBLE: GoblinLast,
+
+PROPERTIES: {
+	RESISTANCE_HOT: 0.8,
+	INTELLIGENCE: 0.5,
+	DEATH_AGE: 75,
+	CRIMINALITY: 0.4,
+	SUBMISSION: 1.0,
+},
+
+CLIMATE: {
+	COLD: 0.5,
+	TEMPERATE: 1.0,
+	HOT: 0.5,
+},
+
+STATS: {
+	SERVICE: {
+
+	},
+	
+	EQUIPABLE: {
+
+	},
+	
+	ACCESS: {
+
+	},
+	
+	DEATH: {
+	
+	},
+	
+	FOOD: {
+	
+	},
+	
+	BATTLE: {
+	
+	},
+	
+	NEEDS: {
+	
+	},
+	
+	WORK: {
+	
+	},
+	
+	ENVIRONMENT: {
+
+	},
+	
+	POPULATION: {
+		SLAVES-SELF: {
+			INVERTED: true,
+			CITIZEN: 1.5,
+		},
+	},
+	
+	STORED: {
+	
+	},
+	
+},

@@ -1,0 +1,7 @@
+VERSION: "1",
+GAME_VERSION_MAJOR: 57,
+GAME_VERSION_MINOR: 20,
+NAME: "Greenskins",
+DESC: "Orcs, and Goblins, and more.",
+AUTHOR: "Jon Beilke",
+INFO: "https://github.com/jrbeilke/sos-greenskins-mod",

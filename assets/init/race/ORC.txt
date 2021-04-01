@@ -1,0 +1,191 @@
+PLAYABLE: true,
+
+PHYSICS: {
+	MASS: 150,
+	ACCELERATION: 3,
+	TOP_SPEED: 5,
+	HEIGHT: 12,
+	WIDTH: 10,
+},
+
+TECH: [
+	*,
+],
+
+PREFERRED: {
+	FOOD: [
+		MEAT,
+		FISH,
+		MUSHROOM,
+	],
+	STRUCTURE: {
+		STONE: 0.7,
+		GRAND: 0.5,
+		WOOD: 1.0,
+		MOUNTAIN: 0.5,
+	},
+	WORK: {
+		FARM_MUSHROOM: 0.3,
+		FISHERY_NORMAL: 0.3,
+		PASTURE_SQUIG: 0.3,
+		WORKSHOP_TOOL: 0.7,
+		WORKSHOP_WEAPON: 1.0,
+	},
+},
+
+BONUS: {
+	MISC: {
+		FARM: -0.1,
+		PASTURE: 0.1,
+		FISHING: -0.1,
+		MINE: -0.1,
+		REFINER: 0.5,
+		WORKSHOP: 0.2,
+	},
+	ROOMS: {
+		WORKSHOP_TOOL: 0.2,
+		WORKSHOP_WEAPON: 0.5,
+		PASTURE_SQUIG: 0.1,
+	},
+},
+
+TRAITS: {
+	FIGHTER: 1.0,
+	GLUTTON: 0.1,
+	SLEEPER: 0.1,
+	SPRINTER: 0.5,
+},
+
+RESOURCE: {
+	MEAT: 25,
+	LEATHER: 5,
+	COTTON: 10,
+},
+
+APPEARANCE: {
+	SPRITE: Orc,
+	SPRITE_EXTRA: Normal,
+	BALD_RATE: 1.0,
+	BEARD_RATE: 0.9,
+	TURNS_GRAY: true,
+	EARS_OFF: 0,
+	EYES_OFF: 0,
+	EYEBROW_OFF: 0,
+	NOSE_OFF: 0,
+	MOUTH_OFF: 0,
+	BEARD1_OFF: 0,
+	BEARD2_OFF: 0,
+	HAIR_OFF: 0,
+	COLORS: {
+		SKIN: [
+			{R: 72, G: 127, B: 88,},
+		],
+		HAIR: [
+			{R: 198, G: 114, B: 54,},
+			{R: 96, G: 27, B: 11,},
+			{R: 196, G: 174, B: 153,},
+			{R: 154, G: 128, B: 101,},
+			{R: 18, G: 18, B: 18,},
+			{R: 35, G: 35, B: 35,},
+			{R: 32, G: 26, B: 26,},
+			{R: 136, G: 46, B: 20,},
+			{R: 84, G: 21, B: 3,},
+			{R: 54, G: 4, B: 7,},
+			{R: 61, G: 9, B: 11,},
+			{R: 35, G: 19, B: 15,},
+			{R: 102, G: 59, B: 16,},
+			{R: 58, G: 36, B: 15,},
+			{R: 116, G: 92, B: 66,},
+			{R: 136, G: 46, B: 20,},
+		],
+		CLOTHES: [
+			{R: 114, G: 101, B: 35,},
+			{R: 142, G: 126, B: 44,},
+			{R: 83, G: 181, B: 94,},
+			{R: 62, G: 135, B: 70,},
+			{R: 105, G: 125, B: 239,},
+			{R: 79, G: 94, B: 181,},
+			{R: 53, G: 64, B: 122,},
+			{R: 193, G: 77, B: 0,},
+		],
+		ARMOUR: [
+			{R: 107, G: 79, B: 65,},
+			{R: 99, G: 99, B: 99,},
+			{R: 168, G: 168, B: 180,},
+			{R: 209, G: 159, B: 54,},
+		],
+		EYE: [
+			{R: 148, G: 23, B: 23,},
+		],
+		LEG: [
+			{R: 80, G: 40, B: 20,},
+		],
+	},
+},
+
+FIRST_NAMES: OrcFirst,
+SURNAMES: OrcLast,
+FIRST_NAMES_NOBLE: OrcFirst,
+SURNAMES_NOBLE: OrcLast,
+
+PROPERTIES: {
+	ARMOUR: 0.4,
+	OFFENSE_SKILL: 1.0,
+	DEFENSE_SKILL: 1.0,
+	INTELLIGENCE: 0.3,
+	RESISTANCE_COLD: 0.8,	
+	DEATH_AGE: 150,
+	SUBMISSION: 0.2,
+},
+
+CLIMATE: {
+	COLD: 0.5,
+	TEMPERATE: 1.0,
+	HOT: 0.5,
+},
+
+STATS: {
+	SERVICE: {
+		
+	},
+	
+	EQUIPABLE: {
+		
+	},
+	
+	ACCESS: {
+	
+	},
+	
+	DEATH: {
+	
+	},
+	
+	FOOD: {
+	
+	},
+	
+	BATTLE: {
+	
+	},
+	
+	NEEDS: {
+	
+	},
+	
+	WORK: {
+	
+	},
+	
+	POPULATION: {
+	
+	},
+	
+	ENVIRONMENT: {
+
+	},
+	
+	STORED: {
+
+	},
+},

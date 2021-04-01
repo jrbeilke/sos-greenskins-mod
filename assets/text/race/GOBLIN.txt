@@ -1,0 +1,12 @@
+NAME: "Goblin",
+NAMES: "Goblins",
+POSSESSIVE: "Goblin",
+DESC: 
+"Goblins are a miserable treacherous race of petty thieves and vicious cutthroats, mainly used as the primary labor force for many Greenskin tribes."
+",
+DESC_LONG:
+"
+Goblins, usually called Gobboz by their Orc cousins, are the smallest and perhaps the most numerous of the Greenskin race.
+They often live on the cast-offs of other races and frequently thrive in the shadows of their larger brawnier cousins, the Orcs.
+Their favourite foods are Meat, Fish, and Mushrooms.
+",

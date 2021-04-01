@@ -1,0 +1,27 @@
+TYPE: DORM,
+RESOURCES: [WOOD,BONE,LEATHER,],
+AREA_COSTS: [0.2,0,0,],
+FLOOR: DIRT,
+MINI_COLOR: [70,0,255,],
+
+ITEMS: [
+	{
+		COSTS: [1,1,1,],
+		STATS: [1,0,],
+	},
+	{
+		COSTS: [1,1,1,],
+		STATS: [0,2,],
+	},
+],
+
+SERVICE: {
+	DEFAULT_ACCESS: 1.0,
+	DEFAULT_VALUE: 1.0,
+	STANDING: {
+		CITIZEN: 1.5,
+		SLAVE: 2.5,
+		NOBLE: 0,
+	},
+	SOUND: SLEEP,
+},

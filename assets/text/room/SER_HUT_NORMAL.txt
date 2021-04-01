@@ -1,0 +1,41 @@
+INFO: {
+	NAME: "Hut",
+	NAMES: "Huts",
+	DESC: "The simplest form of housing in Greenskin society",
+	WIKI: {
+		CATEGORY: "Service",
+		NAME: "Huts",
+		TEXT: "Huts are places where your greenskins can go to rest and sleep at. Sleeping in beds improves the quality of the sleep with obvious benefits to the user's comfort.",
+		LINKS: [],
+	},
+},
+
+STATS: [
+	{
+		NAME: "Beds",
+		DESC: "Available beds",
+	},
+	{
+		NAME: "Coziness",
+		DESC: "Coziness greatly improves sleep quality. Improved by having smaller, less regular shaped rooms and by placing items",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Beds",
+		DESC: "Increases available beds.",
+	},
+	{
+		NAME: "Nicknacks",
+		DESC: "Adds Coziness to the room.",
+	},
+],
+
+SERVICE: {
+	NAME: "Bed",
+	NAMES: "Beds",
+	DESC: "The amount of beds",
+	VERB: "Sleeping",
+},
+
