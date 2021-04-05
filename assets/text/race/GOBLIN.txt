@@ -2,7 +2,7 @@ NAME: "Goblin",
 NAMES: "Goblins",
 POSSESSIVE: "Goblin",
 DESC: 
-"Goblins are a miserable treacherous race of petty thieves and vicious cutthroats, mainly used as the primary labor force for many Greenskin tribes."
+"Goblins are a miserable treacherous race of petty thieves and vicious cutthroats, mainly used as the primary labor force for many Greenskin tribes.
 ",
 DESC_LONG:
 "

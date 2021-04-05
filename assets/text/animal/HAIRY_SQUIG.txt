@@ -1,0 +1,5 @@
+INFO: {
+	NAME: "Hairy Squig",
+	NAMES: "Hairy Squigs",
+	DESC: "Variant of Squigs bred for colder northern climates. Covered in thick fur they provide meat and pelts for Greenskins living in the north.",
+},

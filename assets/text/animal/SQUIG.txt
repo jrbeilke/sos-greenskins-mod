@@ -1,5 +1,5 @@
 INFO: {
 	NAME: "Squig",
 	NAMES: "Squigs",
-	DESC: "The Squigs (short for 'Squiggly Beasts') are considered by many to be the simplest form of Greenskin life. They resemble a large round ball with two strong legs and a huge maw full of teeth.",
+	DESC: "The Squigs (short for 'Squiggly Beasts') are considered by many to be the simplest form of Greenskin life. They resemble a large round ball with two strong legs and a huge maw full of teeth. Raised by Greenskins for bones and meat.",
 },

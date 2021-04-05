@@ -1,0 +1,19 @@
+MASS: 85,
+SPEED: 5,
+HEIGHT: 5,
+
+SOUND: LION,
+
+SPRITE: HairySquig,
+COLOR: [90,56,37,],
+
+CARAVAN: false,
+
+RESOURCES: [MEAT, LEATHER,],
+RESOURCE_AMOUNT: [0.5, 0.25,],
+
+CLIMATE: {
+	COLD: 1,
+	TEMPERATE: 0.5,
+	HOT: 0.25,
+},

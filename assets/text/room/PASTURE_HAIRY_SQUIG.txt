@@ -1,7 +1,7 @@
 INFO: {
-	NAME: "Squig Pasture",
-	NAMES: "Squig Pastures",
-	DESC: "Breeds common Squigs that will produce bone and meat.
+	NAME: "Hairy Squig Pasture",
+	NAMES: "Hairy Squig Pastures",
+	DESC: "Breeds Hairy Squigs that will produce meat and pelts.
 	They are filled with livestock that in turn populate the pasture.",
 },
 

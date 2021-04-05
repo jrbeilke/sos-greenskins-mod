@@ -1,7 +1,7 @@
 INFO: {
 	NAME: "Hut",
 	NAMES: "Huts",
-	DESC: "The simplest form of housing in Greenskin society",
+	DESC: "The simplest form of housing in Greenskin society made of bones, pelts, and wood.",
 	WIKI: {
 		CATEGORY: "Service",
 		NAME: "Huts",
